@@ -1,6 +1,6 @@
 # bikesharing2
 
-Overview:
+<p> Overview: <p>
 We are analyzing and visualizing data from the citibike in New York to show that a bike share program business is a viable idea in Des Moines Iowa.
 We are showing the Angel Investors a bike trip analysis as part our proposal.
 Our visualizations show investors:
@@ -8,13 +8,13 @@ Our visualizations show investors:
 -The number of bike trips for all riders and genders for each hour of each day of the week
 -The number of bike trips for each type of user and gender for each day of the week
 
-Additionally, as Des Moines Iowa is different demographically than New York City, we created charts to show the age demographic that most often used the bike share program as well as the average distance that each rider rode.
+<p>Additionally, as Des Moines Iowa is different demographically than New York City, we created charts to show the age demographic that most often used the bike share program as well as the average distance that each rider rode.
 It is important to take these measures into consideration to see if people will actually be able to use the bikes conveniently to get to their destination. If most people's travel from place to place is long, then they most likely won't be using a bike share.
 Additionally, this presentation could benefit from involving public transit and or ride share data to show that there is a demographic of people that may prefer to use the bike share instead of taking a short bus, subway or Uber ride.
-Lastly, the 
 
+<p>Lastly, the 
 Charts described
-Checkout Times for Users
+<p>Checkout Times for Users<p>
 -Riders frequently only have the bikes checked out for 5 minutes. This could mean that in New York the bikes are most often used by individuals that have to go somewhere that would typically be a long walk, but to make it quicker they use the bike. An example could be someone that gets off of the Subway and completes their commute to work using the bike.
 
 Create the Checkout Times by Gender Viz
